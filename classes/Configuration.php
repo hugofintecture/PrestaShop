@@ -217,7 +217,7 @@ class ConfigurationCore extends ObjectModel
      * @param int $idLang Language ID
      * @param int $idShopGroup Shop Group ID
      * @param int $idShop Shop ID
-     * @param bool $default Default value
+     * @param mixed $default Default value
      *
      * @return string|false Value
      */
